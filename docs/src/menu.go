@@ -85,13 +85,13 @@ func (m *menu) Render() app.UI {
 					Class(linkClass).
 					Icon(rocketSVG).
 					Label("Services").
-					Href("/prp").
-					Class(isFocus("/prp")),
+					Href("/services").
+					Class(isFocus("/services")),
 				ui.Link().
 					Class(linkClass).
 					Icon(gridSVG).
 					Label("Contact").
-					Href("/architecture").
+					Href("/contact").
 					Class(isFocus("/architecture")),
 				ui.Link().
 					Class(linkClass).
@@ -113,11 +113,6 @@ func (m *menu) Render() app.UI {
 					Icon(twitterSVG).
 					Label("Twitter").
 					Href(twitterURL),
-				ui.Link().
-					Class(linkClass).
-					Icon(githubSVG).
-					Label("GitHub").
-					Href(githubURL),
 				ui.Link().
 					Class(linkClass).
 					Icon(opensourceSVG).

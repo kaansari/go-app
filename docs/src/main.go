@@ -71,7 +71,7 @@ func main() {
 	defer cancel()
 	defer exit()
 
-	localOpts := localOptions{Port: 7777}
+	localOpts := localOptions{Port: 10000}
 	cli.Register("local").
 		Help(`Launches a server that serves the documentation app in a local environment.`).
 		Options(&localOpts)
@@ -86,7 +86,7 @@ func main() {
 		Title:       defaultTitle,
 		Description: defaultDescription,
 		Author:      "Khalid Ansari",
-		Image:       "https://go-app.dev/web/icon.svg",
+		Image:       "/web/icon.svg",
 		Icon: app.Icon{
 			Default: "/web/icon.png",
 		},

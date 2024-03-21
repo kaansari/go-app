@@ -42,32 +42,32 @@ func (b *builtWithGoapp) Render() app.UI {
 					newBuiltWithGoappItem().
 						Class("fill").
 						Image("web/images/prp.png").
-						Name("Lofimusic.app").
-						Description("App to listen Lo-fi radios.").
+						Name("PRP").
+						Description("Starting at $125").
 						Href("services/prp.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
 						Image("/web/images/dysport.png").
 						Name("Dysport Botox").
-						Description("Tool to converts Go code into its go/ast representation.").
+						Description("Strating at $4 a unit").
 						Href("services/dysport.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
 						Image("/web/images/filler.png").
 						Name("Fillers").
-						Description("Face Neck and lips.").
+						Description("Face Neck and lips.  Starting at $599").
 						Href("services/sculptra.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
 						Image("/web/images/microneedling.png").
-						Name("Keygean").
-						Description("Sign, verify, encrypt and decrypt data with GPG in your browser.").
+						Name("Crown SkinPen with PRP").
+						Description("Starting at $375 with Crown SkinPen").
 						Href("services/skinpen.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
 						Image("web/images/iv.png").
 						Name("IV Thearapy").
-						Description("Hangover, Beauty, Hydration").
+						Description("Hangover, Beauty, Hydration starting at $125").
 						Href("services/ivtherapy.md"),
 				),
 		)

@@ -1,8 +1,10 @@
 ---
+date: 2023-05-11
 title: 'IV'
 ---
 
 SkinPen is a medical-grade, FDA-cleared microneedling device used for skin rejuvenation and improvement. It works by creating controlled micro-injuries to the skin’s surface, stimulating the body’s natural healing process and triggering the production of collagen and elastin. The device consists of multiple fine needles that penetrate the skin at adjustable depths, allowing for customized treatment based on the individual’s skin concerns and condition. SkinPen treatments can help improve the appearance of acne scars, fine lines, wrinkles, uneven skin texture, and pigmentation issues. Additionally, microneedling with SkinPen can enhance the absorption of topical skincare products (such as PRP), maximizing their effectiveness. The procedure is minimally invasive, with little downtown, and is suitable for various skin types and tones. Multiple sessions may be recommended for optimal results, spaced several weeks apart.
+
 ---
 | FAQ                   | Answers                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------|

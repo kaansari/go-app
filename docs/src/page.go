@@ -114,6 +114,7 @@ func (p *page) Render() app.UI {
 												Class("fit").
 												Class("unselectable").
 												Icon(bellSVG).
+												Href("https://squareup.com/appointments/book/tvu57qe64ksjce/LH6MKHHS71HNS/start").
 												Label("Appoointment"),
 											ui.Link().
 												Class("link").
@@ -121,7 +122,8 @@ func (p *page) Render() app.UI {
 												Class("fit").
 												Class("unselectable").
 												Icon(actionSVG).
-												Label("Call"),
+												Href("tel:+1-224-391-2610").
+												Label("1-224-391-2610"),
 										),
 								),
 
@@ -178,9 +180,9 @@ func (p *page) Render() app.UI {
 							app.Div().Class("separator"),
 							app.Aside().Body(
 								app.Header().
-									ID("repport-an-issue").
+									ID("lastcall").
 									Class("h2").
-									Text("Report an issue"),
+									Text("Reviews"),
 								app.P().Body(
 									app.Text("Found something incorrect, a typo or have suggestions to improve this page? "),
 									app.A().

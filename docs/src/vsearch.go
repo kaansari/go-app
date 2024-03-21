@@ -29,30 +29,35 @@ func (s *SearchComponent) Render() app.UI {
 
 			app.Form().OnSubmit(s.OnSearchFormSubmit).
 				Body(
-
-					app.Label().For("searchInput").Text("Ask questions | hacer preguntas | 问问题 |"),
-					app.P(),
-					app.Input().
-						Style("size", "50").
-						Type("text").
-						ID("searchInput").
-						Value(s.Query).
-						OnChange(s.OnInputChange),
-					app.P(),
-					app.Button().
-						Type("submit").
-						Class("btn btn-primary").
-						Text("Ask Question"),
-					app.P(),
-					ui.Loader().
-						Class("heading").
-						Class("fill").
-						Loading(s.Results.Status == loading).
-						Err(s.Results.Err).
-						Label(fmt.Sprintf("Searching ...")),
-					app.If(s.Results.Status == loaded,
-						vectartacomponents.NewSummaryComponent(s.Results.Summary),
-					).Else(),
+					app.Aside().Body(
+						app.Header().
+							ID("search").
+							Class("h3").
+							Text("Get Questions | Hacer preguntas | 问问题 |"),
+						app.P().Body(
+							app.Input().
+								Style("size", "50").
+								Type("text").
+								ID("searchInput").
+								Value(s.Query).
+								OnChange(s.OnInputChange),
+							app.P(),
+							app.Button().
+								Type("submit").
+								Class("btn btn-primary").
+								Text("Ask Question"),
+							app.P(),
+							ui.Loader().
+								Class("heading").
+								Class("fill").
+								Loading(s.Results.Status == loading).
+								Err(s.Results.Err).
+								Label(fmt.Sprintf("Searching ...")),
+							app.If(s.Results.Status == loaded,
+								vectartacomponents.NewSummaryComponent(s.Results.Summary),
+							).Else(),
+						),
+					),
 				),
 		)
 

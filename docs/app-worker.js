@@ -1,8 +1,8 @@
-const cacheName = "app-" + "5d16b0c7830441e464e11dec26b808eb44e42d49";
-const resourcesToCache = ["/","/app.css","/app.js","/manifest.webmanifest","/wasm_exec.js","/web/app.wasm","/web/css/docs.css","/web/css/prism.css","/web/documents/home.md","/web/documents/what-is-go-app.md","/web/icon.png","/web/js/prism.js","https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500\u0026display=swap","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013306768105236"];
+const cacheName = "app-" + "2a94f812a8ea13e70f173de9337255052e3c2978";
+const resourcesToCache = ["/","/app.css","/app.js","/manifest.webmanifest","/wasm_exec.js","/web/app.wasm","/web/css/docs.css","/web/css/prism.css","/web/documents/home.md","/web/icon.png","/web/js/prism.js","https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500\u0026display=swap","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013306768105236"];
 
 self.addEventListener("install", (event) => {
-  console.log("installing app worker 5d16b0c7830441e464e11dec26b808eb44e42d49");
+  console.log("installing app worker 2a94f812a8ea13e70f173de9337255052e3c2978");
 
   event.waitUntil(
     caches
@@ -28,7 +28,7 @@ self.addEventListener("activate", (event) => {
       );
     })
   );
-  console.log("app worker 5d16b0c7830441e464e11dec26b808eb44e42d49 is activated");
+  console.log("app worker 2a94f812a8ea13e70f173de9337255052e3c2978 is activated");
 });
 
 self.addEventListener("fetch", (event) => {
