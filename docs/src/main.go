@@ -71,7 +71,7 @@ func main() {
 	defer cancel()
 	defer exit()
 
-	localOpts := localOptions{Port: 10000}
+	localOpts := localOptions{Port: 7777}
 	cli.Register("local").
 		Help(`Launches a server that serves the documentation app in a local environment.`).
 		Options(&localOpts)
