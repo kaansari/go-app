@@ -32,7 +32,7 @@ func (b *builtWithGoapp) Render() app.UI {
 		Body(
 			app.H2().
 				ID(b.Iid).
-				Text("Build With go-app"),
+				Text("Services"),
 			ui.Flow().
 				Class("p").
 				StretchItems().

@@ -42,6 +42,6 @@ func (p *servicesPage) Render() app.UI {
 			newIndexLink().Title("Next"),
 		).
 		Content(
-			newBuiltWithGoapp().ID("built-with-go-app"),
+			newBuiltWithGoapp().ID("services"),
 		)
 }
