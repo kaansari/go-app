@@ -115,7 +115,7 @@ func (p *page) Render() app.UI {
 												Class("unselectable").
 												Icon(bellSVG).
 												Href("https://squareup.com/appointments/book/tvu57qe64ksjce/LH6MKHHS71HNS/start").
-												Label("Appoointment"),
+												Label("Appointment"),
 											ui.Link().
 												Class("link").
 												Class("heading").
