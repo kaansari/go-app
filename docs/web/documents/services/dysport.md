@@ -24,3 +24,11 @@ Dysport is a type of botulinum toxin injection used for cosmetic and medical pur
 | **How much do Dysport/Botox treatments cost?**     | Costs vary depending on the provider, location, and the amount of product used. It's typically priced per unit, and the number of units needed varies for each person.          |
 | **Is there downtime after the treatment?**        | There's minimal to no downtime. Patients can usually resume regular activities immediately, but it's advised to avoid strenuous exercise on the day of treatment.           |
 | **Are the results natural-looking?**              | When administered by a skilled practitioner, the results are generally natural-looking, preserving facial expressions while reducing the appearance of wrinkles.               |
+
+
+Dysport is a type of botulinum toxin injection used for various medical and cosmetic purposes. It is primarily used to temporarily improve the appearance of moderate to severe frown lines between the eyebrows (glabellar lines), forehead lines, and crow's feet lines around the eyes. Dysport works by temporarily relaxing the muscles that cause these wrinkles, resulting in smoother skin.
+In NOON Med Spa we mainly use Dysport for:
+Cosmetic purposes: Dysport is often used as a cosmetic treatment to reduce the appearance of wrinkles and fine lines on the face, particularly in the forehead and around the eyes.
+Medical purposes: Dysport can also be used for medical purposes, such as treating muscle spasms, cervical dystonia (a condition characterized by involuntary muscle contractions in the neck and shoulder muscles), and certain types of movement disorders.
+Excessive sweating: Dysport injections can be used to treat hyperhidrosis, a condition characterized by excessive sweating, particularly in the underarms, palms, and soles of the feet.
+Migraine prevention: Some studies suggest that Dysport injections may be effective in preventing chronic migraines in adults.

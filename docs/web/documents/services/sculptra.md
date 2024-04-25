@@ -27,3 +27,5 @@ Sculptra treatment offers a non-surgical solution for facial rejuvenation and be
 | **Consultation**              | Schedule a consultation with a certified practitioner to discuss treatment suitability and options. |
 | **Patient Expectations**      | Clients should understand the gradual nature of results and potential for touch-up treatments. |
 | **Risks and Considerations**  | Discuss potential risks and benefits, and any specific medical concerns or allergies. |
+
+
