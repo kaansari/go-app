@@ -51,7 +51,7 @@ func (b *builtteamGoapp) Render() app.UI {
 						Href("ourteam"),
 					newBuiltteamGoappItem().
 						Class("fill").
-						Image("/web/images/Bri.png").
+						Image("/web/images/bri.png").
 						Name("Bri Schaefer").
 						Description("Nurse Injector").
 						Href("ourteam"),

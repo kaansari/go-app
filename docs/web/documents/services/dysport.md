@@ -9,7 +9,7 @@
         <p style="text-align: center; color: white;">Many people turn to Botox® and Dysport® to reduce the appearance of fine lines and wrinkles to restore a more youthful look. Are you ready to start Botox/Dysport? Call the our office or use the online booking button to schedule your consultation at NOON Med Spa.</p>
     </div>
     <div class="image-container">
-        <img src="/web/images/Dysport.png" alt="Dysport Image" style="width: 100%; height: 100%; object-fit: contain; border-radius: 0;">
+        <img src="/web/images/dysport.png" alt="Dysport Image" style="width: 100%; height: 100%; object-fit: contain; border-radius: 0;">
     </div>
 </div>
 
