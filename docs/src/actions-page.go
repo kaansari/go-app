@@ -36,18 +36,8 @@ func (p *actionPage) Render() app.UI {
 	srcURL := "/web/documents" + p.path
 
 	return newPage().
-		Title("Services").
-		Icon(actionSVG).
-		Index(
-			newIndexLink().Title("Introduction"),
-			newIndexLink().Title("Details"),
-			newIndexLink().Title("FAQ"),
-			newIndexLink().Title("Pricing"),
-
-			app.Div().Class("separator"),
-
-			newIndexLink().Title("Next"),
-		).
+	//	Title("Services").
+	//	Icon(actionSVG).
 		Content(
 			newRemoteMarkdownDoc().Src(srcURL),
 		)

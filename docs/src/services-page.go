@@ -30,18 +30,9 @@ func (p *servicesPage) initPage(ctx app.Context) {
 func (p *servicesPage) Render() app.UI {
 	return newPage().
 		Title("Services").
-		Icon(rocketSVG).
-		Index(
-			newIndexLink().Title("Botox"),
-			newIndexLink().Title("Fillers"),
-			newIndexLink().Title("Breast PRP"),
-			newIndexLink().Title("Facial PRP"),
-			newIndexLink().Title("Microneedling"),
-			app.Div().Class("separator"),
-
-			newIndexLink().Title("Next"),
-		).
+		//Icon(rocketSVG).
 		Content(
 			newBuiltWithGoapp().ID("services"),
 		)
 }
+

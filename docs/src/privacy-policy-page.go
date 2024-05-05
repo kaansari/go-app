@@ -31,17 +31,6 @@ func (p *privacyPolicyPage) Render() app.UI {
 	return newPage().
 		Title("Privacy Policy").
 		Icon(userLockSVG).
-		Index(
-			newIndexLink().Title("Intro"),
-			newIndexLink().Title("Personal Data"),
-			newIndexLink().Title("Log Data"),
-			newIndexLink().Title("Cookies"),
-			newIndexLink().Title("Service Providers"),
-			newIndexLink().Title("Links to Other Sites"),
-			newIndexLink().Title("Changes to this Privacy Policy"),
-
-			app.Div().Class("separator"),
-		).
 		Content(
 			newRemoteMarkdownDoc().Src("/web/documents/privacy-policy.md"),
 		)

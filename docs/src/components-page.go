@@ -1,3 +1,4 @@
+//ourteam
 package main
 
 import (
@@ -22,36 +23,16 @@ func (p *componentsPage) OnNav(ctx app.Context) {
 }
 
 func (p *componentsPage) initPage(ctx app.Context) {
-	ctx.Page().SetTitle("Building Components: Customizable, Independent, and Reusable UI Elements")
-	ctx.Page().SetDescription("Documentation about building customizable, independent, and reusable UI elements.")
-	analytics.Page("components", nil)
+	ctx.Page().SetTitle("Our Team")
+	ctx.Page().SetDescription("Our Team")
+	analytics.Page("Our Team", nil)
 }
 
 func (p *componentsPage) Render() app.UI {
 	return newPage().
-		Title("Components").
-		Icon(gridSVG).
-		Index(
-			newIndexLink().Title("What is a Component?"),
-			newIndexLink().Title("Create"),
-			newIndexLink().Title("Customize Look"),
-			newIndexLink().Title("Fields"),
-			newIndexLink().Title("    Exported vs Unexported"),
-			newIndexLink().Title("    How chose between Exported and Unexported?"),
-			newIndexLink().Title("Lifecycle Events"),
-			newIndexLink().Title("    PreRender"),
-			newIndexLink().Title("    Mount"),
-			newIndexLink().Title("    Nav"),
-			newIndexLink().Title("    Dismount"),
-			newIndexLink().Title("    Reference"),
-			newIndexLink().Title("Updates"),
-			newIndexLink().Title("    Manually Trigger an Update"),
-
-			app.Div().Class("separator"),
-
-			newIndexLink().Title("Next"),
-		).
+		Title("Our Team").
+		//Icon(gridSVG).
 		Content(
-			newRemoteMarkdownDoc().Src("/web/documents/components.md"),
+			newRemoteMarkdownDoc().Src("/web/documents/ourteam.md"),
 		)
 }

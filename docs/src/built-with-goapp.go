@@ -41,34 +41,70 @@ func (b *builtWithGoapp) Render() app.UI {
 				Content(
 					newBuiltWithGoappItem().
 						Class("fill").
-						Image("web/images/prp.png").
+						Image("web/images/prp-bw.png").
 						Name("PRP").
-						Description("Starting at $125").
+						Description("$150 per 1 PRP syringe").
 						Href("services/prp.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
-						Image("/web/images/dysport.png").
+						Image("/web/images/Dysport-bw.png").
 						Name("Dysport Botox").
-						Description("Strating at $4 a unit").
+						Description("Best Offer only $4 a unit").
 						Href("services/dysport.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
-						Image("/web/images/filler.png").
-						Name("Fillers").
-						Description("Face Neck and lips.  Starting at $599").
+						Image("/web/images/filler-bw.png").
+						Name("Derma Fillers").
+						Description("$599 per cc").
 						Href("services/sculptra.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
-						Image("/web/images/microneedling.png").
+						Image("/web/images/mn-bw.png").
 						Name("Crown SkinPen with PRP").
 						Description("Starting at $375 with Crown SkinPen").
 						Href("services/skinpen.md"),
 					newBuiltWithGoappItem().
 						Class("fill").
-						Image("web/images/iv.png").
-						Name("IV Thearapy").
-						Description("Hangover, Beauty, Hydration starting at $125").
+						Image("web/images/hairprp-bw.png").
+						Name("PRP Hair Restoration Treatment").
+						Description("starting at $350").
+						Href("services/hairprp.md"),
+					newBuiltWithGoappItem().
+						Class("fill").
+						Image("web/images/ueye-bw.png").
+						Name("PRP Undereye Treatment").
+						Description("$350").
+						Href("services/ueye.md"),
+					newBuiltWithGoappItem().
+						Class("fill").
+						Image("web/images/p-bw.png").
+						Name("P-Shot").
+						Description("starting at $350").
+						Href("services/p.md"),
+					newBuiltWithGoappItem().
+						Class("fill").
+						Image("web/images/breastlift-bw.png").
+						Name("Vampire Breast Lift Treatment").
+						Description("starting at $350").
+						Href("services/breastlift.md"),
+					newBuiltWithGoappItem().
+						Class("fill").
+						Image("web/images/nad-bbw.png").
+						Name("NAD+").
+						Description("IV or shot").
+						Href("services/nad.md"),
+					newBuiltWithGoappItem().
+						Class("fill").
+						Image("web/images/iv-bw.png").
+						Name("IV Therapy").
+						Description("starting at $125").
 						Href("services/ivtherapy.md"),
+					newBuiltWithGoappItem().
+						Class("fill").
+						Image("web/images/weightloss-bw.png").
+						Name("Weight Loss").
+						Description("starting at $125").
+						Href("services/wl.md"),
 				),
 		)
 }

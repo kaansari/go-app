@@ -30,8 +30,11 @@ const (
 	openCollectiveURL   = "https://opencollective.com/go-app"
 	githubURL           = "https://github.com/maxence-charriere/go-app"
 	githubSponsorURL    = "https://github.com/sponsors/maxence-charriere"
-	twitterURL          = "https://twitter.com/jonhymaxoo"
+	tiktokURL          = "https://www.tiktok.com/@noonmedspa?_t=8lrHxWd1Gc2&_r=1"
+	instagramURL 		= "https://www.instagram.com/noonmedspa?igsh=MWE3eTh5Ymw1NHo2Zg%3D%3D&utm_source=qr"
+	facebookURL			= "https://www.facebook.com/share/hKb5WtAciMUdXLTs/?mibextid=LQQJ4d"
 	coinbaseBusinessURL = "https://commerce.coinbase.com/checkout/851320a4-35b5-41f1-897b-74dd5ee207ae"
+	squareApptURL = "https://squareup.com/appointments/book/tvu57qe64ksjce/LH6MKHHS71HNS/start"
 )
 
 type localOptions struct {
@@ -54,8 +57,11 @@ func main() {
 	app.Route("/reference", newReferencePage())
 	app.Route("/services", newServicesPage())
 	app.RouteWithRegexp(`/services/(.*\.md)`, newActionPage())
+	app.RouteWithRegexp(`/pages/(.*\.md)`, newActionPage())
 	app.Route("/search", newSearchPage())
 	app.Route("/privacy-policy", newPrivacyPolicyPage())
+	app.Route("/aboutus", newMigratePage())
+	app.Route("/ourteam", newComponentsPage())
 	app.Handle(installApp, handleAppInstall)
 	app.Handle(updateApp, handleAppUpdate)
 	app.Handle(getMarkdown, handleGetMarkdown)

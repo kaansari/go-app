@@ -32,8 +32,8 @@ func (s *SearchComponent) Render() app.UI {
 					app.Aside().Body(
 						app.Header().
 							ID("search").
-							Class("h3").
-							Text("Ask a Question | Hacer preguntas | 问问题 |"),
+							Class("h2").
+							Text("Ask a Question"),
 						app.P().Body(
 							app.Input().
 								Style("size", "50").

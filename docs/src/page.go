@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	
 
 	"github.com/maxence-charriere/go-app/v9/pkg/app"
 	"github.com/maxence-charriere/go-app/v9/pkg/ui"
@@ -114,14 +114,14 @@ func (p *page) Render() app.UI {
 												Class("fit").
 												Class("unselectable").
 												Icon(bellSVG).
-												Href("https://squareup.com/appointments/book/tvu57qe64ksjce/LH6MKHHS71HNS/start").
+												Href(squareApptURL).
 												Label("Appointment"),
 											ui.Link().
 												Class("link").
 												Class("heading").
 												Class("fit").
 												Class("unselectable").
-												Icon(actionSVG).
+												Icon(phoneSVG).
 												Href("tel:+1-224-391-2610").
 												Label("1-224-391-2610"),
 										),
@@ -171,27 +171,20 @@ func (p *page) Render() app.UI {
 										),
 								),
 							app.Div().Class("separator"),
-							&SearchComponent{},
-							app.Div().Class("separator"),
+							//&SearchComponent{},
+							//app.Div().Class("separator"),
 							app.Range(p.Icontent).Slice(func(i int) app.UI {
 								return p.Icontent[i]
 							}),
 
 							app.Div().Class("separator"),
 							app.Aside().Body(
-								app.Header().
-									ID("lastcall").
-									Class("h2").
-									Text("Reviews"),
+								
 								app.P().Body(
-									app.Text("Found something incorrect, a typo or have suggestions to improve this page? "),
+									app.Text("Book your appointment "),
 									app.A().
-										Href(fmt.Sprintf(
-											"%s/issues/new?title=Documentation issue in %s page",
-											githubURL,
-											p.Ititle,
-										)).
-										Text("🚀 Submit a GitHub issue!"),
+										Href(squareApptURL).
+										Text("here."),
 								),
 							),
 							app.Div().Class("separator"),

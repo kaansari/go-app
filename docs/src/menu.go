@@ -83,41 +83,46 @@ func (m *menu) Render() app.UI {
 					Class(isFocus("/")),
 				ui.Link().
 					Class(linkClass).
-					Icon(rocketSVG).
+					Icon(serviceSVG).
 					Label("Services").
 					Href("/services").
 					Class(isFocus("/services")),
 				ui.Link().
 					Class(linkClass).
-					Icon(gridSVG).
-					Label("Contact").
-					Href("/contact").
-					Class(isFocus("/architecture")),
+					Icon(teamSVG).
+					Label("Our Team").
+					Href("/ourteam").
+					Class(isFocus("/ourteam")),
 				ui.Link().
 					Class(linkClass).
-					Icon(fileTreeSVG).
-					Label("Search").
-					Href("/search").
+					Icon(googleSVG).
+					Label("Location").
+					Href("https://maps.app.goo.gl/X8JXUNgvYd6aF9T6A").
 					Class(isFocus("/search")),
 				ui.Link().
 					Class(linkClass).
-					Icon(routeSVG).
-					Label("Reference").
-					Href("/reference").
-					Class(isFocus("/reference")),
+					Icon(aboutSVG).
+					Label("About Us").
+					Href("/aboutus").
+					Class(isFocus("/aboutus")),
 
 				app.Div().Class("separator"),
 
 				ui.Link().
 					Class(linkClass).
-					Icon(twitterSVG).
-					Label("Twitter").
-					Href(twitterURL),
+					Icon(facebookSVG).
+					Label("FaceBook").
+					Href(facebookURL),
 				ui.Link().
 					Class(linkClass).
-					Icon(opensourceSVG).
-					Label("Open Collective").
-					Href(openCollectiveURL),
+					Icon(tiktokSVG).
+					Label("TikTok").
+					Href(tiktokURL),
+				ui.Link().
+					Class(linkClass).
+					Icon(instagramSVG).
+					Label("Instagram").
+					Href(instagramURL),
 
 				app.Div().Class("separator"),
 

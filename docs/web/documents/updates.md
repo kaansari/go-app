@@ -1,7 +1,14 @@
-## Updates
 
-| ---------- | ---- |
-| 2024 Sat March 21 | [Filler Model Day](https://github.com/maxence-charriere/go-app/releases/tag/v9.4.0) is now available |
-| 2024 Sat Feb 15 | [Discount on PRP](https://github.com/maxence-charriere/go-app/releases/tag/v9.4.0) is now available |
-| 2023 Thu Dec 23 | [50 Dollar coupon for Botox](https://github.com/maxence-charriere/go-app/releases/tag/v9.3.0) is now available |
+# 
+# ABOUT NOON MED SPA
+
+# MEDICAL SPA LOCATED IN DOWNTOWN CHICAGO, IL
+**Welcome to NOON Med Spa, your premier destination for medical aesthetics and wellness in downtown Chicago, Illinois. Our dedicated team specializes in a wide range of medical spa services, helping you look and feel your best.**
+
+[Read More ...](aboutus)
+
+
+
+
+
 

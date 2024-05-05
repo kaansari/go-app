@@ -1,14 +1,47 @@
+<p><h1 style= "text-align: center;">PRP </h1></p>
+
+<br>
+
+<div class="container">
+    <div class="text-container">
+        <!-- Your Markdown content goes here -->
+        <h1 style="text-align: center; color: white;">Discover Youthful Beauty with Dysport/Botox in downtown Chicago</h1>
+        <p style="text-align: center; color: white;">Many people turn to Botox® and Dysport® to reduce the appearance of fine lines and wrinkles to restore a more youthful look. Are you ready to start Botox/Dysport? Call the our office or use the online booking button to schedule your consultation at NOON Med Spa.</p>
+    </div>
+    <div class="image-container">
+        <img src="/web/images/Dysport.png" alt="Dysport Image" style="width: 100%; height: 100%; object-fit: contain; border-radius: 0;">
+    </div>
+</div>
+
+
+
+
+<br>
+
+## What should I know about Dysport/Botox?
+
+Dysport/Botox is a type of botulinum toxin injection used for various medical and cosmetic purposes. It is primarily used to temporarily improve the appearance of moderate to severe frown lines between the eyebrows (glabellar lines), forehead lines, and crow’s feet lines around the eyes. Dysport works by temporarily relaxing the muscles that cause these wrinkles, resulting in smoother skin.
+
+In NOON Med Spa we mainly use Dysport for:
+
+- **Cosmetic purposes:** Dysport is often used as a cosmetic treatment to reduce the appearance of wrinkles and fine lines on the face, particularly in the forehead and around the eyes.
+
+- **Medical purposes:** Dysport can also be used for medical purposes, such as treating muscle spasms, cervical dystonia (a condition characterized by involuntary muscle contractions in the neck and shoulder muscles), and certain types of movement disorders.
+
+- **Excessive sweating:** Dysport injections can be used to treat hyperhidrosis, a condition characterized by excessive sweating, particularly in the underarms, palms, and soles of the feet.
+
+- **Migraine prevention:** Some studies suggest that Dysport injections may be effective in preventing chronic migraines in adults.
+
+
+<br>
+
 ---
-date: 2023-10-11
-title: Dysport & Botox
----
 
-Youthful Beauty with Dysport/Botox!
-Dysport is a type of botulinum toxin injection used for cosmetic and medical purposes. Similar to Botox, Dysport is injected into specific muscles to temporarily paralyze or weaken them, reducing the appearance of wrinkles and fine lines. It works by blocking the signals from the nerves to the muscles, preventing them from contracting and causing wrinkles. Dysport is commonly used to treat frown lines between the eyebrows, forehead lines, and crow’s feet around the eyes. The effects of Dysport typically last around 3-4 months, after which further injections may be required to maintain results. It’s considered a safe and effective treatment when administered by our qualified medical professional.
+<br>
 
+# Botox/Dysport Q&A
 
-
-| **FAQ**                                     | **Answer**                                                                                                                                                                    |
+| **FAQ**    |                     **Answer**                                                                                                                                                                    |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **What is Dysport and Botox?**                    | Dysport and Botox are injectable neurotoxins containing botulinum toxin type A. They temporarily paralyze muscle activity, reducing wrinkles and fine lines for a smoother appearance. |
 | **How do they work?**                             | They block nerve signals in the muscles, preventing them from contracting. This relaxation of muscles smoothens wrinkles caused by repeated facial expressions.                        |
@@ -26,9 +59,3 @@ Dysport is a type of botulinum toxin injection used for cosmetic and medical pur
 | **Are the results natural-looking?**              | When administered by a skilled practitioner, the results are generally natural-looking, preserving facial expressions while reducing the appearance of wrinkles.               |
 
 
-Dysport is a type of botulinum toxin injection used for various medical and cosmetic purposes. It is primarily used to temporarily improve the appearance of moderate to severe frown lines between the eyebrows (glabellar lines), forehead lines, and crow's feet lines around the eyes. Dysport works by temporarily relaxing the muscles that cause these wrinkles, resulting in smoother skin.
-In NOON Med Spa we mainly use Dysport for:
-Cosmetic purposes: Dysport is often used as a cosmetic treatment to reduce the appearance of wrinkles and fine lines on the face, particularly in the forehead and around the eyes.
-Medical purposes: Dysport can also be used for medical purposes, such as treating muscle spasms, cervical dystonia (a condition characterized by involuntary muscle contractions in the neck and shoulder muscles), and certain types of movement disorders.
-Excessive sweating: Dysport injections can be used to treat hyperhidrosis, a condition characterized by excessive sweating, particularly in the underarms, palms, and soles of the feet.
-Migraine prevention: Some studies suggest that Dysport injections may be effective in preventing chronic migraines in adults.

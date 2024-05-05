@@ -30,9 +30,12 @@ func (p *homePage) initPage(ctx app.Context) {
 
 func (p *homePage) Render() app.UI {
 	return newPage().
-		Title("NOON").
-		Icon("/web/icon.png").
+		//Title("NOON").
+		Icon("/web/noonlogo.png").
+		
+		//Icon("/web/noon.png").
 		Content(
+			newRemoteMarkdownDoc().Src("/web/documents/toppage.md"),
 			ui.Flow().
 				StretchItems().
 				Spacing(84).
@@ -40,13 +43,21 @@ func (p *homePage) Render() app.UI {
 					newRemoteMarkdownDoc().
 						Class("fill").
 						Src("/web/documents/homepage.md"),
+				),
+
+			
+			app.Div().Class("separator"),
+			ui.Flow().
+				StretchItems().
+				Spacing(84).
+				Content(
 					newRemoteMarkdownDoc().
 						Class("fill").
 						Class("updates").
 						Src("/web/documents/updates.md"),
 				),
 			app.Div().Class("separator"),
-
+			newBuiltteamGoapp().ID("built-team-go-app"),
 			newRemoteMarkdownDoc().Src("/web/documents/home.md"),
 
 			app.Div().Class("separator"),

@@ -1,74 +1,127 @@
----
-date: 2023-05-11
-title: 'IV'
----
-![Hair Restoration with PRP](/web/images/iv.png)
-## Reboot: Hangover Relief $150
-Replenish your body and combat hangover-related symptoms like dehydration, headache, and nausea with our Reboot IV. This blend includes six treatments of premium-quality compounds designed to replenish the fluids needed for optimal wellness. 
-It Rehydrates your body, Eases nausea, Detoxes your system, Restores essential vitamins, Reduces inflammation, and Fights fatigue
+<h1 style = "color:white;text-align: center;"> IV Therapy Services</h1>
 
-**Ondansetron**
-**Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**Olympia Mineral Blend (Magnesium Chloride, Zinc Sulfate, Manganese, Copper Gluconate)**
+<br>
 
-## Recovery performance: Reduce Recovery Time $160 ###
-Designed to help shorten the time of recovery after an injury and potentially improve athletic ability, this kit includes six treatments of premium-quality compounds that can help promote improved performance and overall wellness.
-It Decreases recovery time, Enhances athletic performance, Replenishes essential nutrients, and Reduces inflammation
+<div class="container">
+    <div class="text-container">
+        <!-- Your Markdown content goes here -->
+        <h1 style="text-align: center; color: white;">IV Therapy Services Offered In Downtown Chicago</h1>
+        <p style="text-align: center; color: white;">Intravenous (IV) therapy is a wellness treatment that hydrates and nourishes your body from the inside out. For some much-needed me time, call the NOON Med Spa today or book an IV therapy consultation online.</p>
+    </div>
+    <div class="image-container">
+        <img src="/web/images/iv.png" alt="IV Vitamin Therapy" style="width: 100%; height: 100%; object-fit: contain; border-radius: 0;">
+    </div>
+</div>
 
-**Vitamine C**
-**Amino acid blend (Glutathione, Arginine, Lysine, Citrulline, Carnitine)**
-**Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**Olympia Mineral Blend (Magnesium Chloride, Zinc Sulfate, Manganese, Copper Gluconate)**
+<br>
 
-## Myers' cocktail – Energy & wellness - $135 ###
-In honor of the late Dr. John Myers, who developed an intravenous nutrient treatment to treat depression, asthma, migraines, fatigue, fibromyalgia, muscle spasms, bronchitis, allergies, and cardiovascular disease, the Myers Cocktail is named after him.
+<h1 style = "color:white;text-align: center;"> IV Therapy Services and Prices</h1>
 
-**Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**Magnesium**
-**Calcium**
-**Vitamin C**
-**Other nutrients**
+<br>
 
-## Energize Me – Energy boost - $135 ###
-ENERGY IV therapy contains enough B vitamins to support an active lifestyle. Maintaining good health requires B vitamins. In addition to affecting energy levels, brain function, and cell metabolism, B vitamins are essential to a healthy body.
+<div class="text-container">
+    <h2 style="color: white;">Reboot: Hangover Relief $150</h2>
+    <p style="color: white;">Replenish your body and combat hangover-related symptoms like dehydration, headache, and nausea with our Reboot IV. This blend includes six treatments of premium-quality compounds designed to replenish the fluids needed for optimal wellness. It Rehydrates your body, Eases nausea, Detoxes your system, Restores essential vitamins, Reduces inflammation, and Fights fatigue</p>
+    <ul style="color: white;">
+        <li>Ondansetron</li>
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>Olympia Mineral Blend (Magnesium Chloride, Zinc Sulfate, Manganese, Copper Gluconate)</li>
+    </ul>
+</div>
 
-**Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**B12**
-**Other nutrients**
+<br>
 
-## Age is just a number – Anti-aging - $250 ###
-Improve dull skin, brighten appearance, naturally de-stress, and reduce inflammation with high-dose antioxidants, anti-inflammatory, essential B vitamins, and minerals to brighten from within!
+<div class="text-container">
+    <h2 style="color: white;">Recovery performance: Reduce Recovery Time $160</h2>
+    <p style="color: white;">Designed to help shorten the time of recovery after an injury and potentially improve athletic ability, this kit includes six treatments of premium-quality compounds that can help promote improved performance and overall wellness. It Decreases recovery time, Enhances athletic performance, Replenishes essential nutrients, and Reduces inflammation</p>
+    <ul style="color: white;">
+        <li>Vitamine C</li>
+        <li>Amino acid blend (Glutathione, Arginine, Lysine, Citrulline, Carnitine)</li>
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>Olympia Mineral Blend (Magnesium Chloride, Zinc Sulfate, Manganese, Copper Gluconate)</li>
+    </ul>
+</div>
 
+<br>
 
-**NAD+**
-**Vitamin C**
-**Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**Other amino, vitamins, and nutrients**
+<div class="text-container">
+    <h2 style="color: white;">Myers' cocktail – Energy & wellness - $135</h2>
+    <p style="color: white;">In honor of the late Dr. John Myers, who developed an intravenous nutrient treatment to treat depression, asthma, migraines, fatigue, fibromyalgia, muscle spasms, bronchitis, allergies, and cardiovascular disease, the Myers Cocktail is named after him.</p>
+    <ul style="color: white;">
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>Magnesium</li>
+        <li>Calcium</li>
+        <li>Vitamin C</li>
+        <li>Other nutrients</li>
+    </ul>
+</div>
 
-## Rehydrate me- Basic IV drip - $150
-Patients who are experiencing poor oral fluid intake, illness-induced fluid loss, or excessive fluid loss from physical activity may benefit from saline IV therapy. This solution can be infused with medications to help those suffering from migraines, joint pain, nausea, and vomiting.
+<br>
 
-**Vitamin C**
-**Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**Olympia Mineral Blend (Magnesium Chloride, Zinc Sulfate, Manganese, Copper Gluconate)**
-**Other vitamins, and nutrients**
+<div class="text-container">
+    <h2 style="color: white;">Energize Me – Energy boost - $135</h2>
+    <p style="color: white;">ENERGY IV therapy contains enough B vitamins to support an active lifestyle. Maintaining good health requires B vitamins. In addition to affecting energy levels, brain function, and cell metabolism, B vitamins are essential to a healthy body.</p>
+    <ul style="color: white;">
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>B12</li>
+        <li>Other nutrients</li>
+    </ul>
+</div>
 
-## Immune boost – Immunity - $135
-Having a healthy immune system is essential to our well-being. Try this immunity-boosting blend to support immune health with Glutathione, Vitamin C, Zinc, and other nutrients.
+<br>
 
-**Amino acid blend (Glutathione, Arginine, Lysine, Citrulline, Carnitine)**
-**!`19u0i-opO1f`lympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**Vitamin C**
-**Zinc**
+<div class="text-container">
+    <h2 style="color: white;">Age is just a number – Anti-aging - $250</h2>
+    <p style="color: white;">Improve dull skin, brighten appearance, naturally de-stress, and reduce inflammation with high-dose antioxidants, anti-inflammatory, essential B vitamins, and minerals to brighten from within!</p>
+    <ul style="color: white;">
+        <li>NAD+</li>
+        <li>Vitamin C</li>
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>Other amino, vitamins, and nutrients</li>
+    </ul>
+</div>
 
-## Fortify – Skin, hair, and nails - $135 
-With Glutathione and vitamins, this product enhances hair, strengthens nails, and reduces hyperpigmentation. Experience the effects of these critical antioxidants and essential vitamins.
+<br>
 
-**Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))**
-**Vitamin C**
-**Biotin**
+<div class="text-container">
+    <h2 style="color: white;">Rehydrate me- Basic IV drip - $150</h2>
+    <p style="color: white;">Patients who are experiencing poor oral fluid intake, illness-induced fluid loss, or excessive fluid loss from physical activity may benefit from saline IV therapy. This solution can be infused with medications to help those suffering from migraines, joint pain, nausea, and vomiting.</p>
+    <ul style="color: white;">
+        <li>Vitamin C</li>
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>Olympia Mineral Blend (Magnesium Chloride, Zinc Sulfate, Manganese, Copper Gluconate)</li>
+        <li>Other vitamins, and nutrients</li>
+    </ul>
+</div>
 
+<br>
 
+<div class="text-container">
+    <h2 style="color: white;">Immune boost – Immunity - $135</h2>
+    <p style="color: white;">Having a healthy immune system is essential to our well-being. Try this immunity-boosting blend to support immune health with Glutathione, Vitamin C, Zinc, and other nutrients.</p>
+    <ul style="color: white;">
+        <li>Amino acid blend (Glutathione, Arginine, Lysine, Citrulline, Carnitine)</li>
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>Vitamin C</li>
+        <li>Zinc</li>
+    </ul>
+</div>
+
+<br>
+
+<div class="text-container">
+    <h2 style="color: white;">Fortify – Skin, hair, and nails - $135</h2>
+    <p style="color: white;">With Glutathione and vitamins, this product enhances hair, strengthens nails, and reduces hyperpigmentation. Experience the effects of these critical antioxidants and essential vitamins.</p>
+    <ul style="color: white;">
+        <li>Olympia B Complex (Thiamine (B1) Niacinamide (B3) Riboflavin (B2) Dexpanthenol (B5) Pyridoxine (B6))</li>
+        <li>Vitamin C</li>
+        <li>Biotin</li>
+    </ul>
+</div>
+
+<br>
+
+# IV Therapy Q&A
 ---
 | FAQ                   | Answers                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------|
